@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/leanix-custom-report-tutorial-05)](https://api.reuse.software/info/github.com/SAP-samples/leanix-custom-report-tutorial-05)
+
 Tutorial 05: transforming GraphQL data using Javascript Array methods
 
 Transforming GraphQL data using Javascript Array methods
@@ -28,7 +30,6 @@ It will take the specified API Token from `lxr.json` and automatically do a logi
 `npm run build`
 
 Builds the report and outputs the build result into `dist` folder.
-
 
 `npm run upload`
 
